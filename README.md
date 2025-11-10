@@ -95,7 +95,7 @@
 
 ## 🚀 Featured Projects
 
-### 1. 🚕 [QuickCab - Backend Ride Booking Application](https://github.com/Abhishekanand1185)
+### 1. 🚕 [QuickCab – Backend Ride Booking Application](https://github.com/Abhishekanand1185/Cab_Booking_Backend)
 
 A complete **cab booking system** built with enterprise-grade architecture and best practices.
 
@@ -116,8 +116,7 @@ A complete **cab booking system** built with enterprise-grade architecture and b
 
 
 
-### 🎨 **Realtime WhiteBoard - Collaborative Drawing Application**
-**Sept 2024 – Oct 2024** | [GitHub](https://github.com/Abhishekanand1185/Realtime-Whiteboard)
+### 2. 🎨 [Realtime WhiteBoard - Collaborative Drawing Application](https://github.com/Abhishekanand1185/Realtime_WhiteBoard)
 
 A **real-time collaborative whiteboard** enabling multiple users to draw simultaneously with instant synchronization.
 
